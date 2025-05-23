@@ -82,10 +82,16 @@ while (1)
 
 
 ## Output  :
- ![Screenshot 2025-04-28 135238](https://github.com/user-attachments/assets/df16068d-6793-4580-891a-b5a7de4fd70a)
 
+## When LED Off:
+![Screenshot 2025-04-25 081658](https://github.com/user-attachments/assets/8eae83b5-9a9f-4e28-a31b-106a1d414503)
+
+## When LED On:
+![Screenshot 2025-04-25 081709](https://github.com/user-attachments/assets/b451c0a2-afbc-4e02-b98f-19557f7a4aa0)
+
+ 
 ## layout of the circuit 
- ![Screenshot 2025-04-28 135242](https://github.com/user-attachments/assets/08751449-669a-4018-85f0-eea63e9e41a1)
+![Screenshot 2025-04-25 081723](https://github.com/user-attachments/assets/1ea983fe-5f46-4f62-baa4-c1455fc9ef5a)
 
  
 ## Result :
